@@ -1,0 +1,1 @@
+/Users/berylc/Dropbox (HMS)/Projects/Transcript Annotation/ClinVAR HI/hail2_tx_annotation.py
